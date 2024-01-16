@@ -59,12 +59,16 @@ span{
 .banner-1{
     background:linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url('../B9A2-Hero-Travel-main/Images/Group\ 13\ \(1\)\ \(1\).png');
     background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     width: 1170px;
     height: 500px;
     border-radius: 16px;
     border: 16px;
     margin-left: 135px;
-    margin-top: 146px;
+    margin-top: 140px;
     
    
     
@@ -74,7 +78,7 @@ span{
     text-align: center;
     font-weight: 800;
     padding-top: 106px;
-    padding-bottom: 24px;
+    gap: 24px;
     
 }
 .banpara{
@@ -82,4 +86,88 @@ span{
     font-size: 16px;
     font-weight: 400;
     color: rgba(255, 255, 255, 1);
+}
+.frame{
+    display: inline-flex;
+    justify-content: space-between;
+    gap:24px;
+    border-radius: 8px;
+    position: relative;
+    background-color: #ffffff4c;
+    padding-left: 170px;
+    padding-right: 170px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+   
+}
+.frame .where button{
+    height: 50px;
+    width: 150px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.frame .when button{
+    height: 50px;
+    width: 150px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    
+}
+.frame .select button{
+    height: 50px;
+    width: 150px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.frame .find button{
+    height: 50px;
+    width: 150px;
+    background-color: #FF5400;
+    color: #ffffff;
+    border-radius: 8px;
+}
+.dot{
+    height: 5px;
+    width: 5px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: .45rem;
+    margin-right: .3rem;
+    
+
+}
+
+.item-des ul li{
+    display: flex;
+}
+.banner-2{
+    display: flex;
+    gap: 44px;
+    margin-right: 135px;
+    margin-left: 135px;
+    margin-top: 140px;
+}
+.banner-2 button{
+    width: 150px;
+    height: 50px;
+    border-radius: 8px;
+    margin-top: 80px;
+   background-color: #FF5400;
+   color: #ffffff;
+  
+}
+.des-img{
+    width: 500px;
+    height: 500px;
+}
+.item-des p {
+    font-size: 16px;
+    font-weight: 400px;
+    color: #131318b2;
+}
+.item-des h3{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #131318b2;
 }
