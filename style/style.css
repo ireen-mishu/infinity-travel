@@ -1,0 +1,85 @@
+@media screen and (max-width :768px) {
+    .header-section{
+        flex-direction: column;
+        
+    }
+    
+    
+}
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header-section{
+     display: flex;
+     max-width: 1250px;
+}
+.nav-icon{
+    width: 50%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding-left: 135px;
+    
+}
+.nav-icon  h1{
+    font-size:25px;
+    font-weight: 800;
+}
+span{
+    color: #FF5400;
+}
+.nav-items{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-top: 20px;
+}
+.nav-items a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(66, 66, 71, 1);
+    
+}
+ .nav-items a:hover{
+    background-color: gold;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 2px;
+}
+.banner-1{
+    background:linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url('../B9A2-Hero-Travel-main/Images/Group\ 13\ \(1\)\ \(1\).png');
+    background-repeat: no-repeat;
+    width: 1170px;
+    height: 500px;
+    border-radius: 16px;
+    border: 16px;
+    margin-left: 135px;
+    margin-top: 146px;
+    
+   
+    
+}
+.banhead-1{
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    font-weight: 800;
+    padding-top: 106px;
+    padding-bottom: 24px;
+    
+}
+.banpara{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+}
