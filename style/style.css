@@ -171,3 +171,139 @@ span{
     font-weight: 400px;
     color: #131318b2;
 }
+.choose-destination{
+    text-align: center;
+    margin-top: 80px;
+}
+#guides{
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 16px;
+    font-weight: 400;
+    gap: 24px;
+}
+#choose{
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+}
+.mald{
+    background-image: url("../B9A2-Hero-Travel-main/Images/Rectangle\ 5.png");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 573px;
+}
+.mald h1{
+    text-align: center;
+    padding: 150px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+
+
+
+}
+.ind{
+    background-image: url("../B9A2-Hero-Travel-main/Images/Rectangle\ 8.png");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 573px;
+    
+}
+.ind h1{
+    text-align: center;
+    padding: 150px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+}
+.container-1{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.sri{
+    background-image: url("../B9A2-Hero-Travel-main/Images/Rectangle\ 6.png");
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    width: 374px;
+    height: 286px;
+    
+}
+.sri h1{
+    text-align: center;
+    padding: 150px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+}
+.nor{
+    background-image: url("../B9A2-Hero-Travel-main/Images/Rectangle\ 7.png");
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    width: 474px;
+    height: 286px;
+
+}
+.nor h1{
+    text-align: center;
+    padding: 150px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+}
+.kas{
+    background-image: url("../B9A2-Hero-Travel-main/Images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    width: 274px;
+    height: 286px;
+}
+.kas h1{
+    text-align: center;
+    padding: 100px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+
+}
+.container-2{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 15px;
+}
+.bangla{
+    background-image: url("../B9A2-Hero-Travel-main/Images/Rectangle\ 11.png");
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    width: 473px;
+    height: 300px;
+}
+.bangla h1{
+    text-align: center;
+    padding: 150px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+}
+.bandor{
+    background-image: url("../B9A2-Hero-Travel-main/Images/Rectangle\ 10.png");
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    width: 673px;
+    height: 300px;
+}
+.bandor h1{
+    text-align: center;
+    padding: 150px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+}
+.container-3{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top:15px;
+}
