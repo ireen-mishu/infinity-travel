@@ -307,3 +307,92 @@ span{
     justify-content: center;
     margin-top:15px;
 }
+.why-choose{
+    text-align: center;
+    margin-top: 50px;
+}
+.why-choose h1{
+    color:  black;
+    font-size: 40px;
+    font-weight: 800;
+}
+.why-choose p{
+     color: rgba(19, 19, 24, 0.70);
+    margin: 20px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.hotel{
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    margin-left: 100px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    padding: 50px;
+
+}
+.hotel h1{
+    font-size: 24px;
+    font-weight: 800;
+    text-align: center;
+}
+.hotel p{
+    color: #5A5A5D;
+    font-size: 16px;
+}
+.service  img{
+    height: 48px;
+    width: 48px;
+}
+.service h1{
+    font-size: 24px;
+    font-weight: 800;
+    text-align: center;
+
+}
+.service  p{
+    color: #5A5A5D;
+    font-size: 16px;
+
+}
+.service{
+    width: 573px;
+    height: 284px;
+    padding: 50px;
+    margin-left: 100px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+}
+.to-choose-1{
+    display: flex;
+    gap: 24px;
+}
+.price{
+    justify-content: center;
+    align-items: center;
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    margin-left:400px;
+    margin-top: 20px;
+    padding: 50px;
+}
+.price img{
+    height: 48px;
+    width: 48px;
+
+}
+.price h1{
+    font-size: 24px;
+    font-weight: 800;
+    text-align: center;
+
+}
+.price p{
+    color: #5A5A5D;
+    font-size: 16px;
+}
